@@ -3,6 +3,8 @@ Cloudformation template for code pipeline with SPA React app and AWS resources: 
 
 This isn't the complete solution as I was kind of putting things together. You may have issue with configuring Rout53, Cloudfront, and S3 but it will be simple to figure them out. Check `References` section.
 
+In-depth [tutorial](https://stephenslee.medium.com/aws-step-by-step-guide-to-cloudfront-invalidation-in-codepipeline-87bc9f237fdf) on adding Cloudfront invalidation step.
+
 
 # My folder structure
 <img width="279" alt="Screenshot 2022-12-02 at 7 27 48 PM" src="https://user-images.githubusercontent.com/10393248/205420582-bc102415-9cc8-4918-ad9e-40e72c8db1c3.png">
